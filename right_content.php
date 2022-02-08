@@ -53,6 +53,11 @@
         <a href="#" style="text-decoration:none;"><p class="links">আইএলও</p></a>
     </div><br>
 
+    <div class="right_containers">
+        <h1>জরুরি হটলাইন</h1>
+        <a href="#"><img src="picture/999.png" alt="" width="100%"></a>
+    </div><br>
+
     <div class="right_container">
         <h1>জাতীয় সংগীত</h1>
         <div class="audio">
@@ -60,6 +65,12 @@
                 <source src="picture/Music/বগুড়া পলিটেকনিক ইন্সটিটিউট.mp3" type="audio/ogg" width="100%">
             </audio>
         </div>
+    </div><br>
+
+    <div class="right_containers">
+        <h1>আপনার আইপি অ্যাড্রেস</h1>
+        <a href="#" style="text-decoration:none; color:black; font-family:arial;"><h5>103.112.238.26</h5></a>
     </div><br><br>
+    
 
 </div>

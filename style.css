@@ -22,34 +22,6 @@ body{
     margin-right: 10px 0px 10px 0px;
 }
 
-
-
-.menu{
-    width: 100%;
-    float: left;
-    background: white;
-    box-shadow: 0 3px 15px rgba(0,0,0,.4);
-}
-.menu ul li{
-    list-style-type: none;
-    float: left;
-    padding: 10px;
-}
-.menu ul li a{
-    color: black;
-    margin:5px 10px 5px 10px;
-    font-size:14px;
-    text-align: center;
-    text-decoration: none;
-    margin-left:8px;
-}
-
-.menu ul li:hover{
-    color: white;
-    background: green;
-}
-
-
 .contents{
     float: left;
     width: 100%;

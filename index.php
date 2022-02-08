@@ -9,7 +9,8 @@
 <body>
     <div class="total">
         <?php include("header.php")?>
-        <?php include("menubar.php")?>
+        <?php include("menu.php")?>
+        <!-- <?php include("menubar.php")?> -->
         <?php include("marque.php")?>
         <div class="contents">
             <div class="leftys">

@@ -1,0 +1,28 @@
+.menu{
+    width: 100%;
+    display: block;
+}
+.menu ul{
+    float: left;
+    list-style-type: none;
+}
+.menu ul li{
+float: left;
+padding: 10px;
+position:relative;
+}
+.menu ul li a{
+text-decoration: none;
+color: black;
+display:block;
+}
+.menu ul ul{
+    position: absolute;
+    display: none;
+    background-color: #ffffff;
+    border-bottom: 1px solid black;
+}
+.menu ul li:hover>ul{
+    display: block;
+    border-bottom: 1px solid black;
+}
